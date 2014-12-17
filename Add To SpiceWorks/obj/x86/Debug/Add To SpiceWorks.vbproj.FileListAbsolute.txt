@@ -1,0 +1,42 @@
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.exe
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.pdb
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.xml
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.ResolveComReference.cache
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Form1.resources
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Resources.resources
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.GenerateResource.Cache
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.xml
+C:\Users\psieg\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.pdb
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.ResolveComReference.cache
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.xml
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.pdb
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.exe
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.pdb
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.xml
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Form1.resources
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Resources.resources
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.GenerateResource.Cache
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.exe.manifest
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.application
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe.manifest
+C:\Users\psieg.MSD\Documents\Visual Studio 2010\Projects\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.application
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.ResolveComReference.cache
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.xml
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.pdb
+H:\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.exe
+H:\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.pdb
+H:\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.xml
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Form1.resources
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add_To_SpiceWorks.Resources.resources
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.GenerateResource.Cache
+H:\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.exe.manifest
+H:\Add To SpiceWorks\Add To SpiceWorks\bin\Debug\Add To SpiceWorks.application
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe.manifest
+H:\Add To SpiceWorks\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.application
+C:\Users\psieg\Desktop\InventoryApp\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.vbproj.ResolveComReference.cache
+C:\Users\psieg\Desktop\InventoryApp\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.exe
+C:\Users\psieg\Desktop\InventoryApp\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.xml
+C:\Users\psieg\Desktop\InventoryApp\Add To SpiceWorks\obj\x86\Debug\Add To SpiceWorks.pdb
